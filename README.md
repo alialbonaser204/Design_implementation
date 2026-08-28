@@ -5,7 +5,7 @@ Student: Ali Albonaser
 
 Studentnummer: 1852275
 
-Link naar deze repository: https://github.com/HU-ICT-AI-2023/ap-2-design-implementation-alialbonaser204/tree/main
+Link naar deze repository: https://github.com/alialbonaser204/Design_implementation
 
 Deze repository bevat de uitwerking van bovengenoemde student van Summatieve Opdracht 2, voor het vak Adaptive Programming aan de HU, cursusjaar 2023-2024.
 
